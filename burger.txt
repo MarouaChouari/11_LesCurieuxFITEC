@@ -4,3 +4,4 @@ salade
 fromage
 cornichon
 mayonnaise
+cacahuete
